@@ -1,0 +1,21 @@
+.plot-boundary{
+  border: 1px solid gray;
+}
+
+.plot-row {
+  border-bottom: 1px solid gray;
+}
+
+.plot-col{
+  border: 1px solid red;
+  float: left;
+  text-align: center;
+  color: blue;
+}
+.row-flex{
+  display: flex;
+}
+
+.submit{
+  margin-top: 20px;
+}
